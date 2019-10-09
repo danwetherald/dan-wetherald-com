@@ -1076,7 +1076,7 @@ video {
 }
 
 .bg-markdown {
-  background-color: #2d3748;
+  background-color: rgb(10, 25, 47);
 }
 
 .hover\:bg-transparent:hover {
@@ -1456,7 +1456,7 @@ video {
 }
 
 .hover\:bg-markdown:hover {
-  background-color: #2d3748;
+  background-color: rgb(10, 25, 47);
 }
 
 .focus\:bg-transparent:focus {
@@ -1836,7 +1836,7 @@ video {
 }
 
 .focus\:bg-markdown:focus {
-  background-color: #2d3748;
+  background-color: rgb(10, 25, 47);
 }
 
 .bg-bottom {
@@ -2296,7 +2296,7 @@ video {
 }
 
 .border-markdown {
-  border-color: #2d3748;
+  border-color: rgb(10, 25, 47);
 }
 
 .hover\:border-transparent:hover {
@@ -2676,7 +2676,7 @@ video {
 }
 
 .hover\:border-markdown:hover {
-  border-color: #2d3748;
+  border-color: rgb(10, 25, 47);
 }
 
 .focus\:border-transparent:focus {
@@ -3056,7 +3056,7 @@ video {
 }
 
 .focus\:border-markdown:focus {
-  border-color: #2d3748;
+  border-color: rgb(10, 25, 47);
 }
 
 .rounded-none {
@@ -7788,23 +7788,23 @@ video {
 }
 
 .placeholder-markdown::-webkit-input-placeholder {
-  color: #2d3748;
+  color: rgb(10, 25, 47);
 }
 
 .placeholder-markdown::-moz-placeholder {
-  color: #2d3748;
+  color: rgb(10, 25, 47);
 }
 
 .placeholder-markdown:-ms-input-placeholder {
-  color: #2d3748;
+  color: rgb(10, 25, 47);
 }
 
 .placeholder-markdown::-ms-input-placeholder {
-  color: #2d3748;
+  color: rgb(10, 25, 47);
 }
 
 .placeholder-markdown::placeholder {
-  color: #2d3748;
+  color: rgb(10, 25, 47);
 }
 
 .focus\:placeholder-transparent:focus::-webkit-input-placeholder {
@@ -9688,23 +9688,23 @@ video {
 }
 
 .focus\:placeholder-markdown:focus::-webkit-input-placeholder {
-  color: #2d3748;
+  color: rgb(10, 25, 47);
 }
 
 .focus\:placeholder-markdown:focus::-moz-placeholder {
-  color: #2d3748;
+  color: rgb(10, 25, 47);
 }
 
 .focus\:placeholder-markdown:focus:-ms-input-placeholder {
-  color: #2d3748;
+  color: rgb(10, 25, 47);
 }
 
 .focus\:placeholder-markdown:focus::-ms-input-placeholder {
-  color: #2d3748;
+  color: rgb(10, 25, 47);
 }
 
 .focus\:placeholder-markdown:focus::placeholder {
-  color: #2d3748;
+  color: rgb(10, 25, 47);
 }
 
 .pointer-events-none {
@@ -10323,7 +10323,7 @@ video {
 }
 
 .text-markdown {
-  color: #2d3748;
+  color: rgb(10, 25, 47);
 }
 
 .hover\:text-transparent:hover {
@@ -10703,7 +10703,7 @@ video {
 }
 
 .hover\:text-markdown:hover {
-  color: #2d3748;
+  color: rgb(10, 25, 47);
 }
 
 .focus\:text-transparent:focus {
@@ -11083,7 +11083,7 @@ video {
 }
 
 .focus\:text-markdown:focus {
-  color: #2d3748;
+  color: rgb(10, 25, 47);
 }
 
 .text-xs {
@@ -12184,7 +12184,7 @@ video {
   }
 
   .sm\:bg-markdown {
-    background-color: #2d3748;
+    background-color: rgb(10, 25, 47);
   }
 
   .sm\:hover\:bg-transparent:hover {
@@ -12564,7 +12564,7 @@ video {
   }
 
   .sm\:hover\:bg-markdown:hover {
-    background-color: #2d3748;
+    background-color: rgb(10, 25, 47);
   }
 
   .sm\:focus\:bg-transparent:focus {
@@ -12944,7 +12944,7 @@ video {
   }
 
   .sm\:focus\:bg-markdown:focus {
-    background-color: #2d3748;
+    background-color: rgb(10, 25, 47);
   }
 
   .sm\:bg-bottom {
@@ -13404,7 +13404,7 @@ video {
   }
 
   .sm\:border-markdown {
-    border-color: #2d3748;
+    border-color: rgb(10, 25, 47);
   }
 
   .sm\:hover\:border-transparent:hover {
@@ -13784,7 +13784,7 @@ video {
   }
 
   .sm\:hover\:border-markdown:hover {
-    border-color: #2d3748;
+    border-color: rgb(10, 25, 47);
   }
 
   .sm\:focus\:border-transparent:focus {
@@ -14164,7 +14164,7 @@ video {
   }
 
   .sm\:focus\:border-markdown:focus {
-    border-color: #2d3748;
+    border-color: rgb(10, 25, 47);
   }
 
   .sm\:rounded-none {
@@ -18896,23 +18896,23 @@ video {
   }
 
   .sm\:placeholder-markdown::-webkit-input-placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .sm\:placeholder-markdown::-moz-placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .sm\:placeholder-markdown:-ms-input-placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .sm\:placeholder-markdown::-ms-input-placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .sm\:placeholder-markdown::placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .sm\:focus\:placeholder-transparent:focus::-webkit-input-placeholder {
@@ -20796,23 +20796,23 @@ video {
   }
 
   .sm\:focus\:placeholder-markdown:focus::-webkit-input-placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .sm\:focus\:placeholder-markdown:focus::-moz-placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .sm\:focus\:placeholder-markdown:focus:-ms-input-placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .sm\:focus\:placeholder-markdown:focus::-ms-input-placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .sm\:focus\:placeholder-markdown:focus::placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .sm\:pointer-events-none {
@@ -21431,7 +21431,7 @@ video {
   }
 
   .sm\:text-markdown {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .sm\:hover\:text-transparent:hover {
@@ -21811,7 +21811,7 @@ video {
   }
 
   .sm\:hover\:text-markdown:hover {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .sm\:focus\:text-transparent:focus {
@@ -22191,7 +22191,7 @@ video {
   }
 
   .sm\:focus\:text-markdown:focus {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .sm\:text-xs {
@@ -23287,7 +23287,7 @@ video {
   }
 
   .md\:bg-markdown {
-    background-color: #2d3748;
+    background-color: rgb(10, 25, 47);
   }
 
   .md\:hover\:bg-transparent:hover {
@@ -23667,7 +23667,7 @@ video {
   }
 
   .md\:hover\:bg-markdown:hover {
-    background-color: #2d3748;
+    background-color: rgb(10, 25, 47);
   }
 
   .md\:focus\:bg-transparent:focus {
@@ -24047,7 +24047,7 @@ video {
   }
 
   .md\:focus\:bg-markdown:focus {
-    background-color: #2d3748;
+    background-color: rgb(10, 25, 47);
   }
 
   .md\:bg-bottom {
@@ -24507,7 +24507,7 @@ video {
   }
 
   .md\:border-markdown {
-    border-color: #2d3748;
+    border-color: rgb(10, 25, 47);
   }
 
   .md\:hover\:border-transparent:hover {
@@ -24887,7 +24887,7 @@ video {
   }
 
   .md\:hover\:border-markdown:hover {
-    border-color: #2d3748;
+    border-color: rgb(10, 25, 47);
   }
 
   .md\:focus\:border-transparent:focus {
@@ -25267,7 +25267,7 @@ video {
   }
 
   .md\:focus\:border-markdown:focus {
-    border-color: #2d3748;
+    border-color: rgb(10, 25, 47);
   }
 
   .md\:rounded-none {
@@ -29999,23 +29999,23 @@ video {
   }
 
   .md\:placeholder-markdown::-webkit-input-placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .md\:placeholder-markdown::-moz-placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .md\:placeholder-markdown:-ms-input-placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .md\:placeholder-markdown::-ms-input-placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .md\:placeholder-markdown::placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .md\:focus\:placeholder-transparent:focus::-webkit-input-placeholder {
@@ -31899,23 +31899,23 @@ video {
   }
 
   .md\:focus\:placeholder-markdown:focus::-webkit-input-placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .md\:focus\:placeholder-markdown:focus::-moz-placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .md\:focus\:placeholder-markdown:focus:-ms-input-placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .md\:focus\:placeholder-markdown:focus::-ms-input-placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .md\:focus\:placeholder-markdown:focus::placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .md\:pointer-events-none {
@@ -32534,7 +32534,7 @@ video {
   }
 
   .md\:text-markdown {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .md\:hover\:text-transparent:hover {
@@ -32914,7 +32914,7 @@ video {
   }
 
   .md\:hover\:text-markdown:hover {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .md\:focus\:text-transparent:focus {
@@ -33294,7 +33294,7 @@ video {
   }
 
   .md\:focus\:text-markdown:focus {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .md\:text-xs {
@@ -34390,7 +34390,7 @@ video {
   }
 
   .lg\:bg-markdown {
-    background-color: #2d3748;
+    background-color: rgb(10, 25, 47);
   }
 
   .lg\:hover\:bg-transparent:hover {
@@ -34770,7 +34770,7 @@ video {
   }
 
   .lg\:hover\:bg-markdown:hover {
-    background-color: #2d3748;
+    background-color: rgb(10, 25, 47);
   }
 
   .lg\:focus\:bg-transparent:focus {
@@ -35150,7 +35150,7 @@ video {
   }
 
   .lg\:focus\:bg-markdown:focus {
-    background-color: #2d3748;
+    background-color: rgb(10, 25, 47);
   }
 
   .lg\:bg-bottom {
@@ -35610,7 +35610,7 @@ video {
   }
 
   .lg\:border-markdown {
-    border-color: #2d3748;
+    border-color: rgb(10, 25, 47);
   }
 
   .lg\:hover\:border-transparent:hover {
@@ -35990,7 +35990,7 @@ video {
   }
 
   .lg\:hover\:border-markdown:hover {
-    border-color: #2d3748;
+    border-color: rgb(10, 25, 47);
   }
 
   .lg\:focus\:border-transparent:focus {
@@ -36370,7 +36370,7 @@ video {
   }
 
   .lg\:focus\:border-markdown:focus {
-    border-color: #2d3748;
+    border-color: rgb(10, 25, 47);
   }
 
   .lg\:rounded-none {
@@ -41102,23 +41102,23 @@ video {
   }
 
   .lg\:placeholder-markdown::-webkit-input-placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .lg\:placeholder-markdown::-moz-placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .lg\:placeholder-markdown:-ms-input-placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .lg\:placeholder-markdown::-ms-input-placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .lg\:placeholder-markdown::placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .lg\:focus\:placeholder-transparent:focus::-webkit-input-placeholder {
@@ -43002,23 +43002,23 @@ video {
   }
 
   .lg\:focus\:placeholder-markdown:focus::-webkit-input-placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .lg\:focus\:placeholder-markdown:focus::-moz-placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .lg\:focus\:placeholder-markdown:focus:-ms-input-placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .lg\:focus\:placeholder-markdown:focus::-ms-input-placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .lg\:focus\:placeholder-markdown:focus::placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .lg\:pointer-events-none {
@@ -43637,7 +43637,7 @@ video {
   }
 
   .lg\:text-markdown {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .lg\:hover\:text-transparent:hover {
@@ -44017,7 +44017,7 @@ video {
   }
 
   .lg\:hover\:text-markdown:hover {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .lg\:focus\:text-transparent:focus {
@@ -44397,7 +44397,7 @@ video {
   }
 
   .lg\:focus\:text-markdown:focus {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .lg\:text-xs {
@@ -45493,7 +45493,7 @@ video {
   }
 
   .xl\:bg-markdown {
-    background-color: #2d3748;
+    background-color: rgb(10, 25, 47);
   }
 
   .xl\:hover\:bg-transparent:hover {
@@ -45873,7 +45873,7 @@ video {
   }
 
   .xl\:hover\:bg-markdown:hover {
-    background-color: #2d3748;
+    background-color: rgb(10, 25, 47);
   }
 
   .xl\:focus\:bg-transparent:focus {
@@ -46253,7 +46253,7 @@ video {
   }
 
   .xl\:focus\:bg-markdown:focus {
-    background-color: #2d3748;
+    background-color: rgb(10, 25, 47);
   }
 
   .xl\:bg-bottom {
@@ -46713,7 +46713,7 @@ video {
   }
 
   .xl\:border-markdown {
-    border-color: #2d3748;
+    border-color: rgb(10, 25, 47);
   }
 
   .xl\:hover\:border-transparent:hover {
@@ -47093,7 +47093,7 @@ video {
   }
 
   .xl\:hover\:border-markdown:hover {
-    border-color: #2d3748;
+    border-color: rgb(10, 25, 47);
   }
 
   .xl\:focus\:border-transparent:focus {
@@ -47473,7 +47473,7 @@ video {
   }
 
   .xl\:focus\:border-markdown:focus {
-    border-color: #2d3748;
+    border-color: rgb(10, 25, 47);
   }
 
   .xl\:rounded-none {
@@ -52205,23 +52205,23 @@ video {
   }
 
   .xl\:placeholder-markdown::-webkit-input-placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .xl\:placeholder-markdown::-moz-placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .xl\:placeholder-markdown:-ms-input-placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .xl\:placeholder-markdown::-ms-input-placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .xl\:placeholder-markdown::placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .xl\:focus\:placeholder-transparent:focus::-webkit-input-placeholder {
@@ -54105,23 +54105,23 @@ video {
   }
 
   .xl\:focus\:placeholder-markdown:focus::-webkit-input-placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .xl\:focus\:placeholder-markdown:focus::-moz-placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .xl\:focus\:placeholder-markdown:focus:-ms-input-placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .xl\:focus\:placeholder-markdown:focus::-ms-input-placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .xl\:focus\:placeholder-markdown:focus::placeholder {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .xl\:pointer-events-none {
@@ -54740,7 +54740,7 @@ video {
   }
 
   .xl\:text-markdown {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .xl\:hover\:text-transparent:hover {
@@ -55120,7 +55120,7 @@ video {
   }
 
   .xl\:hover\:text-markdown:hover {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .xl\:focus\:text-transparent:focus {
@@ -55500,7 +55500,7 @@ video {
   }
 
   .xl\:focus\:text-markdown:focus {
-    color: #2d3748;
+    color: rgb(10, 25, 47);
   }
 
   .xl\:text-xs {

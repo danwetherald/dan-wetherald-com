@@ -3,7 +3,7 @@ module.exports = {
 		extend: {
 			colors: {
 				lime: 'rgb(100, 255, 218)',
-				markdown: '#2d3748',
+				markdown: 'rgb(10, 25, 47)',
 			},
 		},
 		fontFamily: {
